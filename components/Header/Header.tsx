@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className={`${styles.headerWrapper} ${styles.logo}`}>
       <Link href='/' passHref>
-        <h1 className={styles.logo}>Anime Site</h1> {/* Replace with your actual logo */}
+        <h1 className={styles.logo}>AnimXer</h1> {/* Replace with your actual logo */}
       </Link>
     </header>
   );
